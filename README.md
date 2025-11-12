@@ -1,16 +1,4 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&reversal=false&animation=twinkling&color=0:0431B4,100:0080FF&height=250&section=header&text=トゲナシトゲアリ&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=45&desc=幸せの文字が￥を含むのは何でなんでしょうか?&descSize=20&descAlign=50&descAlignY=90)
- ### ![Girls Band Cry](https://media1.tenor.com/m/osJvtuoLnQsAAAAd/girls-band-cry-anime.gif)![BASE](https://media1.tenor.com/m/5-KPEL3pFlIAAAAC/kita-ikuyo-guitarist.gif)
- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=24&pause=1000&color=FFFFFF&background=FF7CC800&center=true&vCenter=true&width=435&lines=%F0%9F%91%BE+life+is+hard+%E3%81%A0%E3%81%91%E3%81%A9+happy+%F0%9F%8C%88)](https://git.io/typing-svg)
- #
-<div align="center">
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/⋆⁺₊⋆ ♡̶ ⋆⁺₊⋆ ♡̷̷̷ ⋆⁺₊⋆♡̴ ⋆⁺₊⋆ 私の家に来たことを歓迎する(ꈍᴗꈍ) ⋆⁺₊⋆ ♡̶ ⋆⁺₊⋆ ♡̷̷̷ ⋆⁺₊⋆♡̴ ⋆⁺₊⋆-ACFA58?style=for-the-flat&logo=anki%2B%2B&logoColor=white">
-</div>
-<br/>
-<br/>
 <div align="center">
 ┈┈┈ 🪼⋆.࿔*:･ 𝗦𝘁𝘂𝗱𝘆 ･:*࿔.⋆🐟 ┈┈┈
 </div>
