@@ -39,14 +39,11 @@
 [![youtube](https://img.shields.io/badge/my_youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rkclrns)
 </div>
 <br/>
-<br/>
-<br/>
+<div align="center">
+</div>
 <br/>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hachi+Maru+Pop&size=15&duration=3000&pause=10&color=FFFFFF&background=5EC3FF3B&center=true&vCenter=true&multiline=true&width=250&height=60&lines=%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%EF%BC%81;%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%7C%CF%89%EF%BD%A5%D9%88+%CC%91%CC%91%E0%BC%89~~)](https://git.io/typing-svg)
-<br/>
-<br/>
 ![D](https://media1.tenor.com/m/YhA5nO9jiCkAAAAC/ika-musume.gif)ㅤㅤ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fmsl10041004)](https://solved.ac/fmsl10041004/)
 </div>
 </div>
