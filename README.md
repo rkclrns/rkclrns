@@ -39,9 +39,9 @@
 
 [![tistory](https://img.shields.io/badge/티스토리-FFFFFF?style=for-the-badge&logo=tistory&logoColor=black)](https://rkdms20.tistory.com/)
 [![youtube](https://img.shields.io/badge/유튜브-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rkclrns)
-[![]
-[![postype]()](https://www.youtube.com/@rkclrns)
-[![site()](https://www.rkdms.xyz)
+[![naverBlog](https://img.shields.io/badge/네이버블로그-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/rkclrns1228)
+[![postype](https://img.shields.io/badge/포스타입-FFFFFF?style=for-the-badge&logo=anki&logoColor=black)](https://www.postype.com/@kongeuni)
+[![site](https://img.shields.io/badge/개인사이트-FFAFF3?style=for-the-badge&logo=monica&logoColor=black)](https://www.rkdms.xyz)
 </div>
 <br/>
 <div align="center">
