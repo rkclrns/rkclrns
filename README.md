@@ -2,7 +2,7 @@
 
 <!-- 여기부터 README 내용 -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=600&size=30&pause=1000&color=2F2F2F&background=FFAABC27&center=true&vCenter=true&random=true&width=354&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EB%B0%A9%EB%AC%B8%ED%95%B4%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=700&size=30&pause=1000&color=2F2F2F&background=FFD5F4&center=true&vCenter=true&width=350&height=45&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EB%B0%A9%EB%AC%B8%ED%95%B4%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 <h4 align="center"> 하고싶은게 많은 프로그래머 rkclrns 입니다 ^ㅁ^ </h4>
 </div>
 <br/>
@@ -45,11 +45,14 @@
 </div>
 <br/>
 <div align="center">
+  
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fmsl10041004&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fmsl10041004)](https://solved.ac/fmsl10041004)
 </div>
 <br/>
 <div align="center">
   
-![D](https://media1.tenor.com/m/YhA5nO9jiCkAAAAC/ika-musume.gif)ㅤㅤ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fmsl10041004)](https://solved.ac/fmsl10041004/)
+![D](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDIzdmNiNzI5MGd5ZDAzN3g2NXhvbjJvNWYweG5zMXo0c3BvOTlxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
 </div>
 </div>
 <div align="center"> 
