@@ -1,7 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=F8DDE3&height=150&section=header"/>
 
+<!-- 여기부터 README 내용 -->
 <div align="center">
-┈┈┈ 🪼⋆.࿔*:･ 𝗦𝘁𝘂𝗱𝘆 ･:*࿔.⋆🐟 ┈┈┈
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=600&size=30&pause=1000&color=2F2F2F&background=FFAABC27&center=true&vCenter=true&random=true&width=354&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EB%B0%A9%EB%AC%B8%ED%95%B4%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 </div>
+<h3 align="center"> 공부하고 있는 기술 </h3>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -48,10 +51,9 @@
 </div>
 </div>
 <div align="center"> 
-🌀🌀🌀🌀🗯️🗯️🌀🗯️🗯️🗯️🌀🗯️🌀🌀🌀🌀🗯️🗯️🌀🗯️🗯️🗯️🌀🗯️🗯️🌀🌀🌀🌀<br>
-🌀🗯️🗯️🗯️🌀🗯️🌀🗯️🗯️🌀🗯️🗯️🌀🗯️🗯️🗯️🌀🗯️🌀🌀🗯️🌀🌀🗯️🌀🗯️🗯️🗯️🗯️<br>
-🌀🌀🌀🌀🗯️🗯️🌀🌀🌀🗯️🗯️🗯️🌀🗯️🗯️🗯️🌀🗯️🌀🗯️🌀🗯️🌀🗯️🗯️🌀🌀🌀🌀<br>
-🌀🗯️🌀🗯️🗯️🗯️🌀🗯️🗯️🌀🗯️🗯️🌀🗯️🗯️🗯️🌀🗯️🌀🗯️🗯️🗯️🌀🗯️🗯️🗯️🗯️🗯️🌀<br>
-🌀🗯️🗯️🌀🌀🗯️🌀🗯️🗯️🗯️🌀🗯️🌀🌀🌀🌀🗯️🗯️🌀🗯️🗯️🗯️🌀🗯️🌀🌀🌀🌀🗯️<br> 
+
 </div>
 <br> 
+<!-- README 내용 끝 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=FFF2C6&height=150&section=footer"/>
